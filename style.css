@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#div-1{
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+table{
+    width: 100%;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table tr th,td{
+    border: 1px solid white;
+   padding: 10px;
+}
+
+table th{
+    font-size: 1.3rem;
+    background-color: #7052f5;
+}
+
+table tr:hover{
+    background-color: rgb(119, 119, 105);
+}
+
+form{
+    padding: 10px;
+    background-color: violet;
+}
+
+form label{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+
+}
+
+form input{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    margin: 4px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
